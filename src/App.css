@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("./assets/bg.jpg");
+  position: absolute;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
